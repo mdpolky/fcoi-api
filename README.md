@@ -1,6 +1,6 @@
 # Espresso
 
-Minimalistic Express api template used to power personal open-source projects.
+Minimalistic Express api used to power personal open-source projects.
 
 Currently set up to use Docker and Kubernetes to manage deployments.
 
