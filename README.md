@@ -1,4 +1,4 @@
-# Espresso
+# fcoi-api
 
 Minimalistic Express api used to power personal open-source projects.
 
@@ -48,9 +48,9 @@ The image points to a repository on https://hub.docker.com/, which provides free
 
 ```
 
-kubectl create deployment espresso --image=mdpolky/espresso:latest
+kubectl create deployment fcoi-api --image=mdpolky/fcoi-api:latest
 
-kubectl expose deployment espresso --type=LoadBalancer --port=8080
+kubectl expose deployment fcoi-api --type=LoadBalancer --port=8080
 
 ```
 

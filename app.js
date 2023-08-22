@@ -8,5 +8,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(app.get("port"), () => {
-  console.log(`Espresso listening on port ${app.get("port")}`);
+  console.log(`fcoi-api listening on port ${app.get("port")}`);
 });
